@@ -2,4 +2,4 @@ My first React project from [Learn React](https://scrimba.com/learn/learnreact) 
 
 I've used tailwind with React to complete this challenge.
 
-[Link to the project website.](https://airbnb-clone-sigma-seven.vercel.app/)
+[Link to the project's website.](https://airbnb-clone-sigma-seven.vercel.app/)
